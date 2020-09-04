@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/maybelline-newyork/precache-manifest.6ce02748e1537fec454acd217e46e021.js"
+  "/maybelline-newyork/precache-manifest.9192ff9ce78e12fb6dd90c93866c008d.js"
 );
 
 self.addEventListener('message', (event) => {

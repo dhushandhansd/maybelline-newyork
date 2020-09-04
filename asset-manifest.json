@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/maybelline-newyork/static/css/main.c42a0e34.chunk.css",
-    "main.js": "/maybelline-newyork/static/js/main.bfd52377.chunk.js",
-    "main.js.map": "/maybelline-newyork/static/js/main.bfd52377.chunk.js.map",
+    "main.js": "/maybelline-newyork/static/js/main.075e957f.chunk.js",
+    "main.js.map": "/maybelline-newyork/static/js/main.075e957f.chunk.js.map",
     "runtime-main.js": "/maybelline-newyork/static/js/runtime-main.4ba68bd6.js",
     "runtime-main.js.map": "/maybelline-newyork/static/js/runtime-main.4ba68bd6.js.map",
-    "static/js/2.5e61821c.chunk.js": "/maybelline-newyork/static/js/2.5e61821c.chunk.js",
-    "static/js/2.5e61821c.chunk.js.map": "/maybelline-newyork/static/js/2.5e61821c.chunk.js.map",
+    "static/js/2.3e7a98d8.chunk.js": "/maybelline-newyork/static/js/2.3e7a98d8.chunk.js",
+    "static/js/2.3e7a98d8.chunk.js.map": "/maybelline-newyork/static/js/2.3e7a98d8.chunk.js.map",
     "index.html": "/maybelline-newyork/index.html",
-    "precache-manifest.6ce02748e1537fec454acd217e46e021.js": "/maybelline-newyork/precache-manifest.6ce02748e1537fec454acd217e46e021.js",
+    "precache-manifest.9192ff9ce78e12fb6dd90c93866c008d.js": "/maybelline-newyork/precache-manifest.9192ff9ce78e12fb6dd90c93866c008d.js",
     "service-worker.js": "/maybelline-newyork/service-worker.js",
     "static/css/main.c42a0e34.chunk.css.map": "/maybelline-newyork/static/css/main.c42a0e34.chunk.css.map",
-    "static/js/2.5e61821c.chunk.js.LICENSE.txt": "/maybelline-newyork/static/js/2.5e61821c.chunk.js.LICENSE.txt",
+    "static/js/2.3e7a98d8.chunk.js.LICENSE.txt": "/maybelline-newyork/static/js/2.3e7a98d8.chunk.js.LICENSE.txt",
     "static/media/babylips.png": "/maybelline-newyork/static/media/babylips.78eee987.png",
     "static/media/eyeshades.jpeg": "/maybelline-newyork/static/media/eyeshades.2a26de68.jpeg",
     "static/media/lips.jpg": "/maybelline-newyork/static/media/lips.11dd9625.jpg",
@@ -28,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4ba68bd6.js",
-    "static/js/2.5e61821c.chunk.js",
+    "static/js/2.3e7a98d8.chunk.js",
     "static/css/main.c42a0e34.chunk.css",
-    "static/js/main.bfd52377.chunk.js"
+    "static/js/main.075e957f.chunk.js"
   ]
 }
