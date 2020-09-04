@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/maybelline-newyork/static/css/main.c42a0e34.chunk.css",
+    "main.js": "/maybelline-newyork/static/js/main.bfd52377.chunk.js",
+    "main.js.map": "/maybelline-newyork/static/js/main.bfd52377.chunk.js.map",
+    "runtime-main.js": "/maybelline-newyork/static/js/runtime-main.4ba68bd6.js",
+    "runtime-main.js.map": "/maybelline-newyork/static/js/runtime-main.4ba68bd6.js.map",
+    "static/js/2.5e61821c.chunk.js": "/maybelline-newyork/static/js/2.5e61821c.chunk.js",
+    "static/js/2.5e61821c.chunk.js.map": "/maybelline-newyork/static/js/2.5e61821c.chunk.js.map",
+    "index.html": "/maybelline-newyork/index.html",
+    "precache-manifest.6ce02748e1537fec454acd217e46e021.js": "/maybelline-newyork/precache-manifest.6ce02748e1537fec454acd217e46e021.js",
+    "service-worker.js": "/maybelline-newyork/service-worker.js",
+    "static/css/main.c42a0e34.chunk.css.map": "/maybelline-newyork/static/css/main.c42a0e34.chunk.css.map",
+    "static/js/2.5e61821c.chunk.js.LICENSE.txt": "/maybelline-newyork/static/js/2.5e61821c.chunk.js.LICENSE.txt",
+    "static/media/babylips.png": "/maybelline-newyork/static/media/babylips.78eee987.png",
+    "static/media/eyeshades.jpeg": "/maybelline-newyork/static/media/eyeshades.2a26de68.jpeg",
+    "static/media/lips.jpg": "/maybelline-newyork/static/media/lips.11dd9625.jpg",
+    "static/media/lips1.png": "/maybelline-newyork/static/media/lips1.9e073253.png",
+    "static/media/lips2.png": "/maybelline-newyork/static/media/lips2.4de3b464.png",
+    "static/media/lips3.png": "/maybelline-newyork/static/media/lips3.aace58cd.png",
+    "static/media/lipsmodel.png": "/maybelline-newyork/static/media/lipsmodel.fe87ede4.png",
+    "static/media/modelimage.png": "/maybelline-newyork/static/media/modelimage.0381693c.png",
+    "static/media/nail1.png": "/maybelline-newyork/static/media/nail1.188d834d.png",
+    "static/media/nail2.png": "/maybelline-newyork/static/media/nail2.5231ec5f.png",
+    "static/media/nail3.png": "/maybelline-newyork/static/media/nail3.9bdd6f72.png",
+    "static/media/nails.jpg": "/maybelline-newyork/static/media/nails.a0bea7be.jpg",
+    "static/media/ukgrafix.png": "/maybelline-newyork/static/media/ukgrafix.12206564.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ba68bd6.js",
+    "static/js/2.5e61821c.chunk.js",
+    "static/css/main.c42a0e34.chunk.css",
+    "static/js/main.bfd52377.chunk.js"
+  ]
+}
