@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3acf1ae05896245dbea0f8227a6656cb",
+    "revision": "041fd7688183d5c2f395048362d89ade",
     "url": "/maybelline-newyork/index.html"
   },
   {
-    "revision": "8862e195026b31737aae",
+    "revision": "92818974e54e4d0241f0",
     "url": "/maybelline-newyork/static/css/main.c42a0e34.chunk.css"
   },
   {
-    "revision": "580c780422b3a535a5b8",
-    "url": "/maybelline-newyork/static/js/2.3e7a98d8.chunk.js"
+    "revision": "b07402a73fa794de6f70",
+    "url": "/maybelline-newyork/static/js/2.29a87e1a.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/maybelline-newyork/static/js/2.3e7a98d8.chunk.js.LICENSE.txt"
+    "url": "/maybelline-newyork/static/js/2.29a87e1a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8862e195026b31737aae",
-    "url": "/maybelline-newyork/static/js/main.075e957f.chunk.js"
+    "revision": "92818974e54e4d0241f0",
+    "url": "/maybelline-newyork/static/js/main.abcbb4b3.chunk.js"
   },
   {
     "revision": "1de7601253baca882d74",
